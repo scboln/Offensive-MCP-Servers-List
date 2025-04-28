@@ -8,19 +8,20 @@
 	- [Nmap](#nmap)
 	- [Nuclei](#nuclei)
 	- [Burp Suite](#burp-suite)
-	- [Reverse Engineering](#reverse-engineering)
-		- [Ghidra](#ghidra-mcp-by-lauriewired)
-		- [Radare2](#radare2-mcp-by-dnakov)
 	- [Nessus](#nessus)
 	- [Hydra](#hydra)
 	- [Command and Control (C2)](#command-and-control-c2)
 		- [Mythic](#mythic-mcp-by-xpn)
 	- [BloodHound](#bloodhound)
+	- [Reverse Engineering](#reverse-engineering)
+		- [Ghidra](#ghidra-mcp-by-lauriewired)
+		- [Radare2](#radare2-mcp-by-dnakov)
 	
 - [Forensic Tools](#forensic-tools)
 	[Volatility](#volatility)
 	[Wireshark](#wireshark)
-### Combo and Collections
+
+## Combo and Collections
 - [PulseMCP - Ricauts CyberMCP](https://www.pulsemcp.com/servers/ricauts-cybermcp)
 - [Project Astro](https://github.com/whit3rabbit0/project_astro/)
 - [Pentest MCP by DMontgomery40](https://github.com/DMontgomery40/pentest-mcp)
@@ -50,10 +51,6 @@
 - [Burp Suite MCP Plugin (official)](https://portswigger.net/bappstore/9952290f04ed4f628e624d0aa9dccebc)
 - [MCP Server for Burp by PortSwigger](https://github.com/portswigger/mcp-server)
 
-## Reverse Engineering
-- [Ghidra MCP by LaurieWired](https://github.com/LaurieWired/GhidraMCP)
-- [Radare2 MCP by dnakov](https://playbooks.com/mcp/dnakov-radare2) ([Docs](https://playbooks.com/mcp/dnakov-radare2))
-
 ### Nessus
 - [Nessus MCP Server by Cyreslab-AI](https://github.com/Cyreslab-AI/nessus-mcp-server)
 
@@ -66,6 +63,10 @@
 ### BloodHound
 - [Bloodhound MCP AI by mordavid](https://github.com/mordavid/bloodhound-mcp-ai) ([Docs](https://playbooks.com/mcp/mordavid-bloodhound))
 - [Bloodhound MCP by stevenyu113228](https://github.com/stevenyu113228/bloodhound-mcp) ([Docs](https://playbooks.com/mcp/stevenyu113228-bloodhound))
+
+## Reverse Engineering
+- [Ghidra MCP by LaurieWired](https://github.com/LaurieWired/GhidraMCP)
+- [Radare2 MCP by dnakov](https://playbooks.com/mcp/dnakov-radare2) ([Docs](https://playbooks.com/mcp/dnakov-radare2))
 
 ## Forensic Tools
 
