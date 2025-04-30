@@ -13,6 +13,7 @@
 	- [Command and Control (C2)](#command-and-control-c2)
 		- [Mythic](#mythic-mcp-by-xpn)
 	- [BloodHound](#bloodhound)
+   	- [ExploitDB](#exploitdb)
 	- [Reverse Engineering](#reverse-engineering)
 		- [Ghidra](#ghidra-mcp-by-lauriewired)
 		- [Radare2](#radare2-mcp-by-dnakov)
@@ -64,6 +65,9 @@
 - [Bloodhound MCP AI by mordavid](https://github.com/mordavid/bloodhound-mcp-ai) ([Docs](https://playbooks.com/mcp/mordavid-bloodhound))
 - [Bloodhound MCP by stevenyu113228](https://github.com/stevenyu113228/bloodhound-mcp) ([Docs](https://playbooks.com/mcp/stevenyu113228-bloodhound))
 
+### ExploitDB
+- [ExploitDB](https://github.com/Cyreslab-AI/exploitdb-mcp-server)
+
 ## Reverse Engineering
 - [Ghidra MCP by LaurieWired](https://github.com/LaurieWired/GhidraMCP)
 - [Radare2 MCP by dnakov](https://playbooks.com/mcp/dnakov-radare2) ([Docs](https://playbooks.com/mcp/dnakov-radare2))
@@ -77,3 +81,4 @@
 - [WireMCP by 0xkoda](https://github.com/0xkoda/wiremcp) ([Docs](https://playbooks.com/mcp/wiremcp-network-traffic-analysis))
 - [Wireshark MCP by shubham-s-pandey](https://github.com/shubham-s-pandey/wiresharkmcp) ([Docs](https://playbooks.com/mcp/shubham-s-pandey-wireshark))
 - [Wireshark MCP by waynecui](https://github.com/waynecui/wireshark_mcp) ([Docs](https://playbooks.com/mcp/waynecui-wireshark))
+
